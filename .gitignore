@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Manim rendered media and cache (large video files)
+media/
+.manim/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
